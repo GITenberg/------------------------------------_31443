@@ -1,0 +1,32 @@
+_repo: '------------------------------------_31443'
+_version: 0.1.0
+alternative_title: 'Sinanis: Drama in Five Acts'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vyzantios, D. K. (Demetrios Konstantinou)
+    aliases:
+    - Βυζάντιος, Δημήτριος
+    - Vizantios, Dimitrios K.
+    - Aslanes, Demetrios Chatzekonstante
+    birthdate: 1790
+    deathdate: 1853
+    gutenberg_agent_id: '35235'
+    url: http://www.gutenberg.org/2009/agents/35235
+    wikipedia: http://el.wikipedia.org/wiki/%CE%94%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B9%CE%BF%CF%82_%CE%92%CF%85%CE%B6%CE%AC%CE%BD%CF%84%CE%B9%CE%BF%CF%82
+description: ''
+gutenberg_issued: '2010-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31443'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama'
+- !lcc 'PA'
+title: 'Ο Σινάνης: Κωμωδία εις πέντε πράξεις'
+url: http://www.gutenberg.org/ebooks/31443
